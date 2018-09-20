@@ -1,0 +1,34 @@
+_repo: The-Poems-of-Leopardi_53020
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Cliffe, Francis Henry
+    gutenberg_agent_id: '47176'
+    url: http://www.gutenberg.org/2009/agents/47176
+creator:
+  author:
+    agent_name: Leopardi, Giacomo
+    aliases:
+    - Leopardi, Giacomo, conte
+    - Papareschi, Cosimo
+    - Leopardi, G. (Giacomo)
+    birthdate: 1798
+    deathdate: 1837
+    gutenberg_agent_id: '8593'
+    url: http://www.gutenberg.org/2009/agents/8593
+    wikipedia: http://en.wikipedia.org/wiki/Giacomo_Leopardi
+description: ''
+gutenberg_issued: '2016-09-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53020'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italian poetry -- Translations into English'
+- !lcc 'PQ'
+- GITenberg
+title: The Poems of Leopardi
+url: http://www.gutenberg.org/ebooks/53020
